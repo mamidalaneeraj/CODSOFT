@@ -1,2 +1,2 @@
-# CODSOFT
-All the projects related to my codsoft internship will be posted here
+# 
+All the projects related to my internship will be posted here
